@@ -10,7 +10,7 @@ User Browser → CloudFront/S3 (Frontend) → API Gateway → Lambda (Backend) �
                                                    Docker Container
 ```
 
-<img width="11628" height="9820" alt="Image" src="https://github.com/user-attachments/assets/b326b60d-b2c9-4b95-9bb6-03edb57e3b7d" />
+<img width="12482" height="12004" alt="Image" src="https://github.com/user-attachments/assets/f073fcc5-b8ce-40c1-b3ba-c3708329bfcd" />
 
 ## Technologies Used
 - **Frontend:** HTML5, CSS3, Vanilla JavaScript
